@@ -1,4 +1,3 @@
 1,Superior,Camisa,M,MASCULINO,Azul,2023-01-16,Guardada, ,Verao
 3,Inferior,Calca,G,MASCULINO,Rosa,2023-01-16,Guardada, ,Inverno
-4,Inferior,Saia,M,FEMININO,Laranja,2023-01-16,Guardada, ,Verao
 5,Superior,Camiseta,P,UNISSEX,Branco,2023-01-16,Guardada, ,Verao
