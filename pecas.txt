@@ -1,0 +1,2 @@
+1,Superior,Camisa,M,MASCULINO,Azul,2023-01-16,Guardada, ,Verao
+3,Inferior,Calca,G,MASCULINO,Rosa,2023-01-16,Guardada, ,Inverno

@@ -1,0 +1,1 @@
+2,Calçado,Tenis,P,UNISSEX,Verde,2023-01-16,Vendida,R$45.0,Zara,Esporte
