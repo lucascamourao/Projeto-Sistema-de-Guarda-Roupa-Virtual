@@ -1,6 +1,6 @@
 Verao,0
-1,Camisa
-
+5,Camiseta,1,Camisa
+4,Saia
 
 Esporte,0
 
