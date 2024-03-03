@@ -7,3 +7,5 @@
 - Allows the management and visualization of user's clothing items and styles
 
 # Authors: Lucas Cabral e João Lucas Rodrigues
+https://github.com/lucascamourao
+https://github.com/JoaoLucasRodriguesdaSilva
